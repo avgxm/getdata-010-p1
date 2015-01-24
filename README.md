@@ -14,11 +14,12 @@ A full description is available at the site where the data was obtained:
 
 ## Processing
 The R script run_analysis.R does the following:
-1. Read all the input files into data frames (The input files must be unzipped into the default directory first).
-2. Combine the test and train data frames into new.
-3. Subset the new df, selecting columns whose' names contain "Activity", "Subject", ".std.", ".mean.".
-4. Compute averages of variables grouped by Activity, Subject.
-5. Write the resulting df to file.
+
+1. Read all the input files into data frames (The input files must be unzipped into the default directory first)
+2. Combine the test and train data frames into new
+3. Subset the new df, selecting columns whose' names contain "Activity", "Subject", ".std.", ".mean."
+4. Compute averages of variables grouped by Activity, Subject
+5. Write the resulting df to file
 
 *Tested with RStudio 0.98.1091 on Apple OS X 10.10.1 (14B25)*
 
