@@ -1,4 +1,8 @@
 # Codebook
+## Study Design
+The Human Activity Recognition Using Smartphones Data Set and relevant information is found here: 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 ## Feature Selection
 
 **features_info.txt** file explains the feature selection (copied below).
