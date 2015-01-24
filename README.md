@@ -5,7 +5,7 @@ The purpose of this assignment was to demonstrate collection, working with, and 
 The goal is to prepare tidy data that can be used for later analysis.
 
 ## File flow diagram
-![file flow digram] (https://github.com/avgxm/getdata-010-p1/raw/p1-df.png "")
+![file flow digram] (https://raw.githubusercontent.com/avgxm/getdata-010-p1/master/p1-df.png "")
 
 ## Input data
 The input data was collected from the accelerometers from the Samsung Galaxy S smartphone. 
